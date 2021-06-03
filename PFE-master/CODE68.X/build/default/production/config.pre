@@ -1,0 +1,12 @@
+
+# 1 "config.c"
+
+
+# 1
+#pragma config FOSC = XT
+#pragma config WDTE = OFF
+#pragma config PWRTE = ON
+#pragma config CP = OFF
+#pragma config BOREN = ON
+#pragma config LVP = ON
+#pragma config CPD = OFF

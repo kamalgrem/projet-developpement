@@ -1,0 +1,15 @@
+Version 3.2 HI-TECH Software Intermediate Code
+"1 config.c
+[p x FOSC=XT ]
+"2
+[p x WDTE=OFF ]
+"3
+[p x PWRTE=ON ]
+"4
+[p x CP=OFF ]
+"5
+[p x BOREN=ON ]
+"6
+[p x LVP=ON ]
+"7
+[p x CPD=OFF ]
